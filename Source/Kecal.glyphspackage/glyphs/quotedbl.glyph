@@ -32,6 +32,21 @@ ref = quotesingle;
 }
 );
 width = 377;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (152,0);
+ref = quotesingle;
+}
+);
+width = 377;
 }
 );
 metricRight = "=|";

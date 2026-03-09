@@ -10,14 +10,27 @@ shapes = (
 ref = O;
 },
 {
-pos = (122,210);
+pos = (120,210);
 ref = dieresiscomb;
 }
 );
-width = 746;
+width = 759;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (157,210);
+ref = dieresiscomb;
+}
+);
+width = 729;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = O;

@@ -24,6 +24,18 @@ scale = (5.3,5.3);
 }
 );
 width = 745;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+pos = (-282,123);
+ref = period.ss01;
+scale = (5.3,5.3);
+}
+);
+width = 745;
 }
 );
 metricLeft = period;

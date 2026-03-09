@@ -2,7 +2,8 @@
 ![Main Banner](/docs/banner3.jpg)
 
 ## 👨‍💻 Design 
-Kecal, a fork of Instrument Sans, has been thoughtfully redesigned as a versatile, open-source alternative to commercial system fonts. The typeface is now more condensed with bolder regular, features certain stylistic sets enabled by default, and open terminals, modern letterforms for improved readability.
+**The name Kecal comes from Czech, meaning “a person who talks a lot.”** And just like its name, this typeface loves to speak — clearly, confidently, and without hesitation.\
+Built as a straightforward, versatile sans serif, Kecal is designed to feel at home in both long-form text and striking headlines. Its clean shapes, balanced rhythm, and friendly geometry make it a reliable voice for any project.
 
 ![Kecal vs Arial](/docs/vs.jpg)
 
@@ -15,7 +16,7 @@ Kecal contains many features such as stylistic sets, ligatures, and contextual a
 You can test Kecal typeface [here](https://fungitype.xyz/fonts/kecal).
 
 ## ⬇️ Download
-You can download Kecal in releases on the right side of this page!
+You can [download Kecal](https://github.com/fungitype/kecal/releases/latest) in releases on the right side of this page!
 
 ## 🍄 Follow us
 Follow us on social media sites such as [Instagram](https://www.instagram.com/fungitype) so you don't miss out on anything, or check out our [website](https://www.fungitype.xyz)

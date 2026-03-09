@@ -10,14 +10,27 @@ shapes = (
 ref = t.ss04;
 },
 {
-pos = (68,0);
+pos = (71,0);
 ref = commaaccentcomb;
 }
 );
-width = 354;
+width = 366;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = t.ss04;
+},
+{
+pos = (83,0);
+ref = commaaccentcomb;
+}
+);
+width = 319;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = t.ss04;

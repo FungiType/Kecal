@@ -9,10 +9,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(208,270,l),
-(230,740,l),
+(225,285,l),
+(250,740,l),
 (66,740,l),
-(88,270,l)
+(91,285,l)
 );
 },
 {
@@ -21,10 +21,30 @@ pos = (10,0);
 ref = period;
 }
 );
-width = 296;
+width = 316;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,193,l),
+(154,740,l),
+(90,740,l),
+(99,193,l)
+);
+},
+{
+alignment = -1;
+pos = (9,0);
+ref = period;
+}
+);
+width = 245;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 closed = 1;

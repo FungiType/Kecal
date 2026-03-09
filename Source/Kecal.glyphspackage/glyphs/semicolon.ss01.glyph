@@ -32,6 +32,21 @@ ref = period.ss01;
 }
 );
 width = 249;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+ref = comma.ss01;
+},
+{
+alignment = -1;
+pos = (2,380);
+ref = period.ss01;
+}
+);
+width = 249;
 }
 );
 metricLeft = colon.ss01;

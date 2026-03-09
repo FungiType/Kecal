@@ -32,6 +32,21 @@ ref = caroncomb.alt;
 }
 );
 width = 616;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (504,0);
+ref = caroncomb.alt;
+}
+);
+width = 616;
 }
 );
 unicode = 271;

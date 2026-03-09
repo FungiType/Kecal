@@ -10,14 +10,27 @@ shapes = (
 ref = t.ss04;
 },
 {
-pos = (207,68);
+pos = (216,71);
 ref = caroncomb.alt;
 }
 );
-width = 354;
+width = 366;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = t.ss04;
+},
+{
+pos = (191,56);
+ref = caroncomb.alt;
+}
+);
+width = 319;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = t.ss04;

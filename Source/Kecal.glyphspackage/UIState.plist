@@ -17,13 +17,17 @@ c,
 g,
 e,
 sa,
-a,
+"anežka",
 "",
 RRP,
 "̋ő",
 "Ahoj, já sem extra bold ",
 RGB,
 Ss,
-CGJSceg
+CGJSceg,
+"/Rcommaaccent.ss01",
+"ˆ",
+"̂̌",
+"AÂ"
 );
 }

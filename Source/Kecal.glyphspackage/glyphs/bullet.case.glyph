@@ -10,10 +10,21 @@ ref = period;
 scale = (3.56,3.56);
 }
 );
-width = 983;
+width = 1040;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+pos = (0,123);
+ref = period;
+scale = (5.3,5.3);
+}
+);
+width = 1224;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 pos = (0,123);

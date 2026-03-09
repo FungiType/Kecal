@@ -11,17 +11,36 @@ ref = O;
 {
 closed = 1;
 nodes = (
-(700,661,l),
-(622,730,l),
-(36,59,l),
-(114,-10,l)
+(711,653,l),
+(626,730,l),
+(36,67,l),
+(121,-10,l)
 );
 }
 );
-width = 746;
+width = 757;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+closed = 1;
+nodes = (
+(663,700,l),
+(622,730,l),
+(55,20,l),
+(96,-10,l)
+);
+}
+);
+width = 718;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 alignment = -1;

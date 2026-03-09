@@ -7,9 +7,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(230,0,l),
-(208,450,l),
-(88,450,l),
+(250,0,l),
+(225,434,l),
+(91,434,l),
 (66,0,l)
 );
 },
@@ -20,10 +20,31 @@ pos = (287,720);
 ref = period;
 }
 );
-width = 297;
+width = 317;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,0,l),
+(145,528,l),
+(99,528,l),
+(90,0,l)
+);
+},
+{
+alignment = -1;
+angle = 180;
+pos = (256,720);
+ref = period;
+}
+);
+width = 245;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 closed = 1;

@@ -22,6 +22,17 @@ ref = period;
 }
 );
 width = 101;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+pos = (-73,333);
+ref = period;
+}
+);
+width = 101;
 }
 );
 unicode = 183;

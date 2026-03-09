@@ -26,6 +26,18 @@ ref = guillemetleft;
 }
 );
 width = 478;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (478,502);
+ref = guillemetleft;
+}
+);
+width = 478;
 }
 );
 metricLeft = "=|guillemetleft";

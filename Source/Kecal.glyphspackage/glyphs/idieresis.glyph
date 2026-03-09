@@ -13,10 +13,23 @@ pos = (-120,0);
 ref = dieresiscomb;
 }
 );
-width = 261;
+width = 279;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-91,0);
+ref = dieresiscomb;
+}
+);
+width = 231;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = idotless;

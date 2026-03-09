@@ -9,18 +9,35 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-22,0);
+pos = (-23,0);
 ref = dotaccentcomb.ss01;
 },
 {
-pos = (-38,0);
+pos = (-28,0);
 ref = ogonekcomb;
 }
 );
-width = 261;
+width = 279;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (11,0);
+ref = dotaccentcomb.ss01;
+},
+{
+pos = (-50,0);
+ref = ogonekcomb;
+}
+);
+width = 231;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = idotless;

@@ -11,14 +11,27 @@ shapes = (
 ref = G.ss10;
 },
 {
-pos = (144,210);
+pos = (148,210);
 ref = brevecomb;
 }
 );
-width = 724;
+width = 737;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = G.ss10;
+},
+{
+pos = (149,210);
+ref = brevecomb;
+}
+);
+width = 707;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = G.ss10;

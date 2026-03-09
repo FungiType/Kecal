@@ -14,10 +14,23 @@ pos = (56,0);
 ref = hungarumlautcomb;
 }
 );
-width = 581;
+width = 596;
 },
 {
 layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (85,0);
+ref = hungarumlautcomb;
+}
+);
+width = 559;
+},
+{
+layerId = "7706EA0A-ADAC-4E76-A745-8A9A965DB998";
 shapes = (
 {
 ref = u;
