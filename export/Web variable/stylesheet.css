@@ -1,0 +1,10 @@
+/* Automatically generated font-face rules */
+
+@font-face {
+    font-family: 'Kecal';
+    src: url('Kecal-web.woff2') format('woff2');
+    font-display: swap;
+    font-stretch: 100% 100%;
+    font-weight: 200 800;
+}
+
